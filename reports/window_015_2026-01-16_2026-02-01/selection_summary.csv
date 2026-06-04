@@ -1,0 +1,2 @@
+calibration_source_mode,calibration_window_name,selected_threshold,selected_threshold_quantile,validation_selected_threshold,criterion,dataset_gate_train,trading_gate_validation,dataset_gate_refit,trading_gate_test
+validation_sweep,window_015_2026-01-16_2026-02-01,,,,no supported positive HftBacktest Sharpe1H365 threshold with threshold_quantile >= 0.945,0.7968056787932565,0.8435372671372668,0.7872500807638465,0.8344322809994056

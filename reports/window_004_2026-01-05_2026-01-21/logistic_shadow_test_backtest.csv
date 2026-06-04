@@ -1,0 +1,2 @@
+threshold_quantile,threshold,Sharpe1H365,Sortino1H365,ReturnPct,AnnualReturnPct,MaxDrawdownPct,ReturnOverMDD,DailyTrades,DailyTradingValuePct,MaxPositionValue,roundtrip_count,valid_for_selection
+0.987,0.14781656675,34.80522129423177,78.48552834999977,0.02367317125736674,9.016390444110113,0.0053772655818233065,4.40245528087525,10.434782608695652,10.574479461837631,90.20375,5,True
