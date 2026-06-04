@@ -1,2 +1,0 @@
-calibration_source_mode,calibration_window_name,selected_threshold,selected_threshold_quantile,validation_selected_threshold,criterion,dataset_gate_train,trading_gate_validation,dataset_gate_refit,trading_gate_test
-validation_sweep,window_000_2026-01-01_2026-01-17,0.153903540596,0.985,0.151252897382,select median threshold_quantile row among top 3 supported positive thresholds ranked by 3-point median-smoothed HftBacktest Sharpe1H365 with threshold_quantile >= 0.945,0.8022309617979159,0.8591377786958374,0.8051904280417931,0.8584615384615385

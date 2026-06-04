@@ -1,2 +1,0 @@
-fill_surface_quantile,max_notional_cap,max_notional_cap_mode,max_notional_cap_quantile,n_orders_before_cap,n_orders_used,n_orders_dropped_by_cap,cap_keep_share
-0.99,2010231.5483719998,window_quantile,0.96,1944595,1789329,155266,0.9201550965625233

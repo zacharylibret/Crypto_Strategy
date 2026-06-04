@@ -1,5 +1,0 @@
-name,threshold,selected_quantile,total_count,kept_count,kept_share,min_count_floor,kept_fill_count,min_fill_floor,floor_met
-dataset_gate_train,0.7991365912623035,0.8,1511425,306875,0.2030368691797476,250,251986.0,25.0,True
-trading_gate_validation,0.8464089481007109,0.98,30239998,604800,0.02000000132275141,250,,,True
-dataset_gate_refit,0.7873814397841906,0.8,1695419,339084,0.20000011796493963,250,276170.0,25.0,True
-trading_gate_test,0.8412097966408189,0.98,30240000,604800,0.02,250,,,True

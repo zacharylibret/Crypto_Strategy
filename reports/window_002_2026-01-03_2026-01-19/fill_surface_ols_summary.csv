@@ -1,2 +1,0 @@
-r_squared,n_surface_points,mean_abs_error,target,regressors,fill_surface_quantile,max_notional_cap,max_notional_cap_mode,max_notional_cap_quantile,n_orders_before_cap,n_orders_used,n_orders_dropped_by_cap,cap_keep_share
-0.8903432212788849,14641,0.04538402996622197,smoothed_delaunay_surface,"['const', 'q_near_norm', 'q_opp_norm', 'imbalance']",0.99,2457739.076,window_quantile,0.96,1505031,1384842,120189,0.9201418442543708

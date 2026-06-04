@@ -1,7 +1,0 @@
-left_feature,right_feature
-opp_count_80ms_w0,total_opp_80ms_w0
-top_near_liq,total_opp_80ms_w0
-ob_near_half,opp_count_1s_w0
-ret_vwap_80ms_w1,opp_count_1s_w0
-amplitude_80ms_w0,amplitude_1s_w0
-amplitude_80ms_w0,ret_autocov_300s_w1
