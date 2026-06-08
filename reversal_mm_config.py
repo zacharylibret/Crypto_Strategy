@@ -52,7 +52,7 @@ class ModelConfig:
     fill_surface_bins: int = 20
     fill_surface_quantile: float = 0.99
     fill_surface_notional_cap_quantile: float = 0.96
-    fill_prob_threshold: float = 0.85
+    fill_prob_threshold: float = 0.82
     dataset_gate_quantile_low: float = 0.6
     dataset_gate_quantile_high: float = 0.8
     dataset_gate_min_orders: int = 250
@@ -63,8 +63,8 @@ class ModelConfig:
     logistic_max_iter: int = 4000
     threshold_quantiles: tuple[float, ...] = tuple(np.concatenate([np.arange(0.8, 0.96, 0.05), np.array([0.975, 0.98, 0.985, 0.855, 0.9, 0.935, 0.95, 0.975, 0.98, 0.985, 0.987, 0.99, 1.0])]))
     selection_threshold_quantile_floor: float = 0.945
-    min_validation_roundtrips: int = 0
-    min_validation_daily_trades: float = 0
+    min_validation_roundtrips: int = 50
+    min_validation_daily_trades: float = 50
 
 
 @dataclass(slots=True)

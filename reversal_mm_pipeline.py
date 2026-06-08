@@ -93,8 +93,8 @@ def _window_step_days(validation_days: int, test_days: int) -> int:
     return test_days
 
 
-WINDOW_TRAIN_DAYS = 14
-WINDOW_VALIDATION_DAYS = 2
+WINDOW_TRAIN_DAYS = 21
+WINDOW_VALIDATION_DAYS = 7
 WINDOW_TEST_DAYS = 1
 WINDOW_STEP_DAYS = _window_step_days(WINDOW_VALIDATION_DAYS, WINDOW_TEST_DAYS)
 WINDOW_REFIT_DAYS = WINDOW_TRAIN_DAYS
